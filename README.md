@@ -1,6 +1,6 @@
 # CS50's Web Programming with Python and JavaScript
 
-## Project 1 (Wiki)
+## (Wiki)
 
 Wiki project lets you edit and create wikipedia types pages, in which you are able to fill the entry infromation using markup language which is auto translated to HTML. Also lets you search and read from the list of entries submitted to the site.
 
